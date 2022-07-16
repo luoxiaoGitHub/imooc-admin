@@ -25,9 +25,7 @@
       </el-form-item>
 
       <!--登录按钮-->
-      <el-button type="primary" style="width: 100%; margin-bottom: 30px"
-        >登录</el-button
-      >
+      <el-button type="primary" style="width: 100%; margin-bottom: 30px">登录</el-button>
     </el-form>
   </div>
 </template>
@@ -101,6 +99,5 @@ $cursor: #fff;
     user-select: none;
   }
 }
-
 
 </style>
